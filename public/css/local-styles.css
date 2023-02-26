@@ -1150,7 +1150,7 @@ input:checked + .switch:before {
 }
 
 .card-height {
-    height: 650px;
+    /* height: 650px; */
 }
 
 .blue-btn {

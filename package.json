@@ -1,0 +1,26 @@
+{
+  "name": "conference-speaker-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAbdelazim/Conference-Speaker-App.git"
+  },
+  "author": "MahmoudAbdelazim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudAbdelazim/Conference-Speaker-App/issues"
+  },
+  "homepage": "https://github.com/MahmoudAbdelazim/Conference-Speaker-App#readme",
+  "dependencies": {
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
